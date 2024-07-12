@@ -6,8 +6,6 @@ Objectives
 2. Forecast the solution of lorenz system with the help of LSTM networks.
 3. Predict the solution of lorenz system with change in initial conditions.
 
-## Run Locally
-
 Clone the project
 
 ```bash
@@ -18,6 +16,13 @@ Go to the project directory
 
 ```bash
   cd Non-Linearity-Prediction-In-Mechanical-Systems
+```
+
+Activate Environment
+
+```bash
+  conda create -p venv python==3.8 -y
+  conda activate venv/
 ```
 
 Install dependencies
