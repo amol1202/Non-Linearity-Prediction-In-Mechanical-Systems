@@ -30,3 +30,9 @@ Install dependencies
 ```bash
   pip install -r requirements.txt
 ```
+
+Load the dataset
+
+```bash
+  python generate_points.py
+```
